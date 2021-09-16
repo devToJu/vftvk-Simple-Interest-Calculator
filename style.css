@@ -17,3 +17,13 @@ h1 {
     border-radius: 25px;
 	margin: auto;
 }
+
+th {
+	padding: 2px;
+	text-align: left;
+}
+
+button {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
